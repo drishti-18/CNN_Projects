@@ -6,7 +6,7 @@
 import numpy as np
 import cv2
 
-projectPath = r'F:\Downloads\CNN_Projects\object_detection\\'
+projectPath = r'F:\study\CNN_Projects\object_detection\\'
 
 imagesFolder = r'images\\'
 
