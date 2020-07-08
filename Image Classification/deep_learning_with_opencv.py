@@ -7,7 +7,7 @@ import time
 import cv2
 
 #input your project path here
-projectPath = r'F:\Downloads\CNN_Projects\image_classification\\'
+projectPath = r'F:\study\CNN_Projects\image_classification\\'
 
 #input your image
 imageFolder = r'images\\'
